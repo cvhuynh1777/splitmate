@@ -1,0 +1,28 @@
+# Backend and API
+fastapi
+uvicorn
+starlette
+
+# Frontend
+streamlit
+pillow
+
+# OCR
+google-cloud-vision
+google-auth
+google-api-core
+grpcio
+protobuf
+
+# Chatbot + requests
+huggingface-hub
+requests
+
+# Data
+pandas
+numpy
+python-dateutil
+
+# Utility
+PyYAML
+typing_extensions
